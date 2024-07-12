@@ -1,0 +1,13 @@
+07/12/2024
+aim - build a weather dashboard that showcases weather patterns in the form of pictures in a matrix form.
+The matrix should have picture as values , time slots on the x and dates monday to sunday on the y axis.
+Their should be a tool tip with on hovering on different values show cases indepth details such as temperature , temperature feeling , chance 
+of rain , amount of rain , wind speed. 
+
+The dashboard should update daily through the help of azure functions . 
+
+Future work 
+Incorporating Azure functions with python https://www.youtube.com/watch?v=OkRI5kto7-E
+Fixing the y axis of dates
+Incorporating the required tooltips
+Overall beautification 
