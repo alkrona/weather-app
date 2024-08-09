@@ -1,5 +1,4 @@
 dt,visibility,pop,dt_txt,main.temp,main.feels_like,main.temp_min,main.temp_max,main.pressure,main.sea_level,main.grnd_level,main.humidity,main.temp_kf,clouds.all,wind.speed,wind.deg,wind.gust,sys.pod,rain.3h,weather_main,weather_description,weather_id,weather_icon
-1723161600,10000,0.06,2024-08-09 00:00:00,13.28,12.47,11.48,13.28,1026,1026,1019,69,1.8,54,2.13,323,3.46,d,,Clouds,broken clouds,803,04d
 1723172400,10000,0.0,2024-08-09 03:00:00,13.56,12.67,13.56,14.11,1026,1026,1018,65,-0.55,43,1.82,294,3.08,d,,Clouds,scattered clouds,802,03d
 1723183200,10000,0.0,2024-08-09 06:00:00,13.8,12.8,13.8,14.06,1025,1025,1017,60,-0.26,50,0.59,230,2.12,d,,Clouds,scattered clouds,802,03d
 1723194000,10000,0.0,2024-08-09 09:00:00,11.01,9.99,11.01,11.01,1026,1026,1019,70,0.0,100,1.08,42,1.68,n,,Clouds,overcast clouds,8041,04n
@@ -39,3 +38,4 @@ dt,visibility,pop,dt_txt,main.temp,main.feels_like,main.temp_min,main.temp_max,m
 1723561200,10000,0.36,2024-08-13 15:00:00,12.26,11.81,12.26,12.26,1020,1020,1012,87,0.0,100,2.32,1,5.44,n,0.28,Rain,light rain,5001,10n
 1723572000,10000,0.15,2024-08-13 18:00:00,12.16,11.7,12.16,12.16,1019,1019,1011,87,0.0,100,3.03,9,7.02,n,,Clouds,overcast clouds,8041,04n
 1723582800,10000,0.0,2024-08-13 21:00:00,11.65,11.17,11.65,11.65,1020,1020,1012,88,0.0,83,3.16,357,6.97,n,,Clouds,broken clouds,8031,04n
+1723593600,10000,0.0,2024-08-14 00:00:00,14.0,13.36,14.0,14.0,1020,1020,1013,73,0.0,47,2.63,327,4.04,d,,Clouds,scattered clouds,802,03d
