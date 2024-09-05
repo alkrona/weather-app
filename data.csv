@@ -1,5 +1,4 @@
 dt,visibility,pop,dt_txt,main.temp,main.feels_like,main.temp_min,main.temp_max,main.pressure,main.sea_level,main.grnd_level,main.humidity,main.temp_kf,clouds.all,wind.speed,wind.deg,wind.gust,sys.pod,rain.3h,weather_main,weather_description,weather_id,weather_icon
-1725494400,10000,0.3,2024-09-05 00:00:00,18.38,17.27,18.38,18.91,1013,1013,1006,38,-0.53,100,8.51,354,17.82,d,,Clouds,overcast clouds,804,04d
 1725505200,10000,0.02,2024-09-05 03:00:00,18.95,17.81,18.95,20.1,1013,1013,1005,35,-1.15,99,8.14,348,17.39,d,,Clouds,overcast clouds,804,04d
 1725516000,10000,0.3,2024-09-05 06:00:00,17.59,16.58,17.19,17.59,1013,1013,1006,45,0.4,99,4.06,356,10.9,d,0.13,Rain,light rain,500,10d
 1725526800,10000,0.07,2024-09-05 09:00:00,15.95,14.93,15.95,15.95,1012,1012,1005,51,0.0,100,1.7,74,5.47,n,,Clouds,overcast clouds,8041,04n
@@ -39,3 +38,4 @@ dt,visibility,pop,dt_txt,main.temp,main.feels_like,main.temp_min,main.temp_max,m
 1725894000,10000,0.0,2024-09-09 15:00:00,9.59,8.39,9.59,9.59,1023,1023,1015,79,0.0,55,2.42,323,4.0,n,,Clouds,broken clouds,8031,04n
 1725904800,10000,0.0,2024-09-09 18:00:00,8.29,6.93,8.29,8.29,1023,1023,1015,85,0.0,34,2.32,334,3.94,n,,Clouds,scattered clouds,8021,03n
 1725915600,10000,0.0,2024-09-09 21:00:00,8.02,6.27,8.02,8.02,1024,1024,1016,84,0.0,17,2.79,348,4.73,d,,Clouds,few clouds,801,02d
+1725926400,10000,0.0,2024-09-10 00:00:00,13.54,12.49,13.54,13.54,1024,1024,1017,59,0.0,40,2.76,327,4.2,d,,Clouds,scattered clouds,802,03d
